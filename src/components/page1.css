@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins');
+@import url('https://fonts.googleapis.com/css?family=Montserrat');
+.logo-image{
+    width : 20vw;
+    height: 10vh;
+}
+/* div,span,img,button,h4,h3,p{
+    position: absolute;
+} */
+.bg-height{
+    height: 619px;
+}
+.font-poppins{
+    font-family: 'Poppins';
+}
+.font-Montserrat{
+    font-family: 'Montserrat';
+}
+.btn-orange {
+    background-color: #FA4A0C !important;
+    border-color: #FA4A0C !important;
+}
+.food_App{
+    top: 200px;
+    left: 48%;
+}
